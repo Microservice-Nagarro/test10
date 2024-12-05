@@ -74,3 +74,4 @@ stages:
                   azureResourceGroup: 'uks-microservices-rsg'
                   kubernetesCluster:  'uksbhfmicroservices'
                   DeployConfigMap:    '${{parameters.DeployConfigMap}}'
+

@@ -1,4 +1,4 @@
-﻿using System.Text.Json.Serialization;
+using System.Text.Json.Serialization;
 
 namespace BHF.MS.MyMicroservice.Database.Models.DbItem
 {
@@ -17,3 +17,4 @@ namespace BHF.MS.MyMicroservice.Database.Models.DbItem
         }
     }
 }
+

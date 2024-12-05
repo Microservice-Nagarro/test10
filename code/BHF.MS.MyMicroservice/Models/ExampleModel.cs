@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 using Newtonsoft.Json;
 
@@ -26,3 +26,4 @@ namespace BHF.MS.MyMicroservice.Models
         public Dictionary<string, string>? Customisations { get; set; }
     }
 }
+

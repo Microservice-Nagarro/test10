@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Database.Context.Entities;
+using BHF.MS.MyMicroservice.Database.Context.Entities;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.CodeAnalysis;
 
@@ -10,3 +10,4 @@ namespace BHF.MS.MyMicroservice.Database.Context
         public virtual DbSet<DbItem> DbItems { get; set; }
     }
 }
+

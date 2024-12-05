@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 
 namespace BHF.MS.MyMicroservice.Models.Settings
@@ -13,3 +13,4 @@ namespace BHF.MS.MyMicroservice.Models.Settings
         public HttpClientSettings HttpClient { get; set; } = new();
     }
 }
+

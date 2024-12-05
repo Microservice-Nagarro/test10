@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Models;
+using BHF.MS.MyMicroservice.Models;
 using BHF.MS.MyMicroservice.Models.Settings;
 using Microsoft.Extensions.Options;
 
@@ -17,3 +17,4 @@ namespace BHF.MS.MyMicroservice.Services
         }
     }
 }
+

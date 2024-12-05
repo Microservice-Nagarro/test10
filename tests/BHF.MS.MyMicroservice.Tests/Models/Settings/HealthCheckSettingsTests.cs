@@ -19,3 +19,4 @@ namespace BHF.MS.MyMicroservice.Tests.Models.Settings
         }
     }
 }
+

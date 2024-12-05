@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Models;
+using BHF.MS.MyMicroservice.Models;
 
 namespace BHF.MS.MyMicroservice.Services
 {
@@ -8,3 +8,4 @@ namespace BHF.MS.MyMicroservice.Services
         Task<HttpResponseMessage> GetSomething();
     }
 }
+

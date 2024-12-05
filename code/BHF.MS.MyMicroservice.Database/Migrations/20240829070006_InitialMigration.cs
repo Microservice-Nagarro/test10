@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -32,3 +32,4 @@ namespace BHF.MS.MyMicroservice.Database.Migrations
         }
     }
 }
+

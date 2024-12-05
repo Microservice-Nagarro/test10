@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 
 namespace BHF.MS.MyMicroservice.Models.Settings
@@ -10,3 +10,4 @@ namespace BHF.MS.MyMicroservice.Models.Settings
         public string BaseAddress { get; set; } = string.Empty;
     }
 }
+

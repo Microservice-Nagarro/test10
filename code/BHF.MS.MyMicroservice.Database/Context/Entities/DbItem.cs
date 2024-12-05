@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Database.Models.DbItem;
+using BHF.MS.MyMicroservice.Database.Models.DbItem;
 using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 
@@ -21,3 +21,4 @@ namespace BHF.MS.MyMicroservice.Database.Context.Entities
         }
     }
 }
+

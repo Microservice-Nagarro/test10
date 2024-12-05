@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using System.Diagnostics.CodeAnalysis;
 
@@ -15,3 +15,4 @@ namespace BHF.MS.MyMicroservice.Database.Context
         }
     }
 }
+
